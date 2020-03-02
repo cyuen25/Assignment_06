@@ -1,9 +1,9 @@
-#------------------------------------------#
-# Title: Assignment06_Starter.py
-# Desc: Working with classes and functions.
+#--------------------------------------------------------------------------#
+# Title: Assignment06.py
+# Desc: Working with classes and functions. Also modifiy someone else's code
 # Change Log: (Who, When, What)
-# DBiesinger, 2030-Jan-01, Created File
-#------------------------------------------#
+# Cyuen, 2020-Mar-01, Created File
+#--------------------------------------------------------------------------#
 
 # -- DATA -- #
 strChoice = '' # User input
@@ -70,7 +70,7 @@ class FileProcessor:
        
         Args: 
             FileName : name of the file used to save the data into
-        
+            
         Returns:        
             None.
         """
